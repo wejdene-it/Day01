@@ -1,0 +1,3 @@
+sed -i.bak$d deposition_Joe_Rugiani.txt 
+sed -i -e "s/cadillac jaune/chevrolet impala/g" deposition_Joe_Rugiani.txt> 
+sed -i -e "s/rouge/vert/g" deposition_Joe_Rugiani.txt
