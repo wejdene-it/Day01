@@ -1,0 +1,2 @@
+sed -i.bak '' deposition_Joe_Rugiani.txt 
+sed -i -e "s/rouge/vert/g" deposition_Joe_Rugiani.txt
